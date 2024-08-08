@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Roni\Documents\atividade-git\atividade-git\venv
+set VIRTUAL_ENV=C:\Users\20211094010026\Nova pasta\atividade-git\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
